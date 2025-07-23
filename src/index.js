@@ -5,3 +5,7 @@ import './App.css'; // optional
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
+
+//npm install gh-pages --save-dev
+
